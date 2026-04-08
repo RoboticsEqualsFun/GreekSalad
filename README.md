@@ -11,7 +11,7 @@ There’s not much to explain—if you can read, congratulations, you’ve alrea
 Most of the text was originally generated with AI, so if things sound suspiciously like an overconfident emotional salesman… that’s why.
 (Yes, I used Copilot—aka “Google with fluff”—and no, I am not sorry.)
 
-This is an older project, and I’ve moved on to more ~useless projects bigger~ things, so it likely won’t receive updates (unless I _randomly_ decide this salad deserves a full upgrade… don’t count on it).
+This is an older project, and I’ve moved on to ~~useless projects~~ bigger plans, so it likely won’t receive updates (unless I _randomly_ decide this salad deserves a full upgrade… don’t count on it).
 
 ## 📄 License
 
