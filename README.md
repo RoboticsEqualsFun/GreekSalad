@@ -13,7 +13,7 @@ Most of the text was originally generated with AI, so if things sound suspicious
 
 This is an older project, and I’ve moved on to bigger things, so it likely won’t receive updates (unless I _randomly_ decide this salad deserves a full upgrade… don’t count on it).
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
 
